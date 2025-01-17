@@ -8,12 +8,14 @@ pub fn animal_habitat(animal: &str) -> &'static str {
     let identifier = if animal == "crab" {
         1
     } else if animal == "gopher" {
-        2.0
+        2
     } else if animal == "snake" {
         3
-    } else {
-        "Unknown"
+    }else{
+        4
     };
+
+
 
     // DO NOT CHANGE THIS STATEMENT BELOW
     let habitat = if identifier == 1 {
@@ -22,13 +24,12 @@ pub fn animal_habitat(animal: &str) -> &'static str {
         "Burrow"
     } else if identifier == 3 {
         "Desert"
-    } else {
+    }
+    else {
         "Unknown"
     };
-
     habitat
 }
-
 #[cfg(test)]
 mod tests {
     use super::*;
