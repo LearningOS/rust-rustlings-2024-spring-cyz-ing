@@ -1,0 +1,112 @@
+❌ move_semantics3 points 0/1
+✅ intro2 pass
+✅ variables5 pass
+✅ quiz1 pass
+❌ move_semantics4 points 0/1
+❌ primitive_types1 points 0/1
+❌ move_semantics5 points 0/1
+✅ variables1 pass
+✅ variables6 pass
+❌ primitive_types2 points 0/1
+❌ move_semantics6 points 0/1
+❌ primitive_types3 points 0/1
+❌ functions1 points 0/1
+❌ primitive_types4 points 0/1
+❌ functions2 points 0/1
+✅ variables2 pass
+❌ primitive_types5 points 0/1
+❌ functions3 points 0/1
+❌ primitive_types6 points 0/1
+❌ functions4 points 0/1
+✅ structs1 pass
+✅ variables3 pass
+❌ functions5 points 0/1
+✅ variables4 pass
+✅ vecs1 pass
+✅ structs2 pass
+❌ options2 points 0/1
+✅ if1 pass
+❌ options3 points 0/1
+✅ vecs2 pass
+✅ structs3 pass
+❌ move_semantics1 points 0/1
+✅ if2 pass
+✅ errors1 pass
+❌ enums1 points 0/1
+❌ move_semantics2 points 0/1
+❌ lifetimes1 points 0/1
+❌ enums2 points 0/1
+❌ errors2 points 0/1
+❌ lifetimes2 points 0/1
+✅ if3 pass
+❌ lifetimes3 points 0/1
+❌ enums3 points 0/1
+❌ errors3 points 0/1
+✅ strings1 pass
+✅ box1 pass
+✅ tests1 pass
+❌ errors4 points 0/1
+❌ errors5 points 0/1
+✅ strings2 pass
+❌ rc1 points 0/1
+✅ tests2 pass
+❌ errors6 points 0/1
+✅ strings3 pass
+❌ generics1 points 0/1
+✅ arc1 pass
+✅ tests3 pass
+✅ strings4 pass
+❌ generics2 points 0/1
+✅ tests4 pass
+❌ modules1 points 0/1
+✅ cow1 pass
+❌ modules2 points 0/1
+❌ modules3 points 0/1
+❌ hashmaps1 points 0/1
+✅ iterators1 pass
+✅ traits1 pass
+✅ iterators2 pass
+✅ traits2 pass
+✅ threads1 pass
+❌ hashmaps2 points 0/1
+✅ iterators3 pass
+✅ traits3 pass
+❌ hashmaps3 points 0/1
+✅ iterators4 pass
+✅ traits4 pass
+✅ threads2 pass
+❌ traits5 points 0/1
+✅ quiz2 pass
+✅ threads3 pass
+❌ quiz3 points 0/1
+❌ options1 points 0/1
+❌ macros1 points 0/1
+❌ iterators5 points 0/1
+❌ macros3 points 0/1
+❌ from_str points 0/1
+❌ macros2 points 0/1
+❌ macros4 points 0/1
+❌ try_from_into points 0/1
+❌ algorithm2 points 0/1
+✅ as_ref_mut pass
+✅ tests7 pass
+❌ algorithm3 points 0/1
+✅ tests5 pass
+❌ algorithm4 points 0/1
+✅ tests6 pass
+✅ tests8 pass
+❌ algorithm5 points 0/1
+❌ algorithm7 points 0/1
+❌ tests9 points 0/1
+✅ clippy1 pass
+❌ algorithm6 points 0/1
+❌ algorithm8 points 0/1
+❌ algorithm1 points 0/1
+❌ algorithm9 points 0/1
+❌ using_as points 0/1
+❌ algorithm10 points 0/1
+✅ clippy2 pass
+✅ from_into pass
+✅ clippy3 pass
+
+Points: 49/110
