@@ -1,0 +1,112 @@
+❌ primitive_types5 points 0/1
+✅ functions4 pass
+✅ variables4 pass
+✅ intro2 pass
+❌ primitive_types6 points 0/1
+✅ functions5 pass
+✅ variables1 pass
+✅ variables5 pass
+✅ vecs1 pass
+✅ variables2 pass
+✅ variables6 pass
+✅ if1 pass
+✅ variables3 pass
+✅ functions1 pass
+✅ vecs2 pass
+✅ if2 pass
+❌ move_semantics1 points 0/1
+✅ functions2 pass
+❌ move_semantics2 points 0/1
+✅ hashmaps1 pass
+❌ move_semantics3 points 0/1
+✅ functions3 pass
+✅ if3 pass
+❌ move_semantics4 points 0/1
+❌ move_semantics5 points 0/1
+✅ hashmaps2 pass
+❌ move_semantics6 points 0/1
+✅ traits3 pass
+✅ quiz1 pass
+❌ primitive_types1 points 0/1
+❌ primitive_types2 points 0/1
+❌ primitive_types3 points 0/1
+✅ traits4 pass
+✅ structs1 pass
+✅ hashmaps3 pass
+❌ primitive_types4 points 0/1
+❌ traits5 points 0/1
+✅ structs2 pass
+✅ iterators3 pass
+✅ quiz2 pass
+❌ options1 points 0/1
+❌ quiz3 points 0/1
+❌ options2 points 0/1
+✅ structs3 pass
+✅ iterators4 pass
+❌ options3 points 0/1
+✅ lifetimes1 pass
+✅ enums1 pass
+✅ lifetimes2 pass
+✅ errors1 pass
+❌ iterators5 points 0/1
+✅ enums2 pass
+✅ lifetimes3 pass
+❌ enums3 points 0/1
+✅ box1 pass
+✅ errors2 pass
+✅ strings1 pass
+✅ tests1 pass
+✅ errors3 pass
+❌ rc1 points 0/1
+✅ strings2 pass
+✅ tests2 pass
+✅ arc1 pass
+✅ errors4 pass
+✅ strings3 pass
+✅ tests3 pass
+✅ errors5 pass
+✅ cow1 pass
+✅ strings4 pass
+✅ tests4 pass
+❌ errors6 points 0/1
+✅ modules1 pass
+✅ iterators1 pass
+✅ generics1 pass
+✅ modules2 pass
+✅ threads1 pass
+✅ modules3 pass
+✅ generics2 pass
+✅ iterators2 pass
+❌ using_as points 0/1
+✅ macros1 pass
+✅ traits1 pass
+✅ macros2 pass
+✅ threads2 pass
+✅ from_into pass
+❌ from_str points 0/1
+✅ macros3 pass
+✅ traits2 pass
+✅ threads3 pass
+❌ try_from_into points 0/1
+✅ macros4 pass
+✅ tests6 pass
+❌ algorithm1 points 0/1
+✅ as_ref_mut pass
+✅ tests5 pass
+❌ algorithm2 points 0/1
+✅ tests7 pass
+❌ algorithm4 points 0/1
+❌ algorithm3 points 0/1
+❌ algorithm5 points 0/1
+✅ tests8 pass
+❌ algorithm6 points 0/1
+❌ algorithm8 points 0/1
+❌ algorithm7 points 0/1
+✅ clippy1 pass
+❌ tests9 points 0/1
+❌ algorithm9 points 0/1
+❌ algorithm10 points 0/1
+✅ clippy2 pass
+✅ clippy3 pass
+
+Points: 75/110
