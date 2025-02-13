@@ -1,0 +1,112 @@
+❌ primitive_types6 points 0/1
+✅ intro2 pass
+✅ functions3 pass
+✅ strings2 pass
+✅ vecs1 pass
+✅ variables1 pass
+✅ functions4 pass
+✅ strings3 pass
+✅ functions5 pass
+✅ variables2 pass
+✅ vecs2 pass
+✅ strings4 pass
+✅ variables3 pass
+✅ if1 pass
+❌ move_semantics1 points 0/1
+✅ modules1 pass
+✅ variables4 pass
+❌ move_semantics2 points 0/1
+❌ move_semantics3 points 0/1
+✅ modules2 pass
+✅ if2 pass
+✅ variables5 pass
+❌ move_semantics4 points 0/1
+❌ move_semantics5 points 0/1
+✅ modules3 pass
+✅ variables6 pass
+❌ move_semantics6 points 0/1
+✅ if3 pass
+✅ functions1 pass
+✅ hashmaps1 pass
+✅ quiz1 pass
+✅ structs1 pass
+✅ functions2 pass
+❌ primitive_types1 points 0/1
+❌ primitive_types2 points 0/1
+✅ generics1 pass
+❌ primitive_types3 points 0/1
+✅ hashmaps2 pass
+✅ structs2 pass
+❌ primitive_types4 points 0/1
+❌ primitive_types5 points 0/1
+✅ generics2 pass
+✅ structs3 pass
+✅ hashmaps3 pass
+✅ tests4 pass
+✅ enums1 pass
+✅ traits1 pass
+✅ iterators1 pass
+✅ quiz2 pass
+✅ enums2 pass
+✅ traits2 pass
+✅ iterators2 pass
+✅ enums3 pass
+✅ traits3 pass
+✅ strings1 pass
+✅ iterators3 pass
+❌ options1 points 0/1
+✅ traits4 pass
+❌ options2 points 0/1
+❌ options3 points 0/1
+❌ traits5 points 0/1
+✅ iterators4 pass
+❌ quiz3 points 0/1
+✅ errors1 pass
+✅ threads2 pass
+❌ iterators5 points 0/1
+✅ lifetimes1 pass
+✅ errors2 pass
+✅ threads3 pass
+✅ box1 pass
+✅ lifetimes2 pass
+✅ macros1 pass
+✅ errors3 pass
+✅ lifetimes3 pass
+✅ rc1 pass
+✅ macros2 pass
+✅ errors4 pass
+✅ macros3 pass
+✅ tests1 pass
+✅ arc1 pass
+✅ errors5 pass
+✅ macros4 pass
+✅ tests2 pass
+✅ cow1 pass
+❌ errors6 points 0/1
+✅ tests3 pass
+✅ tests5 pass
+✅ clippy1 pass
+✅ clippy3 pass
+✅ threads1 pass
+❌ using_as points 0/1
+✅ tests6 pass
+✅ from_into pass
+❌ tests9 points 0/1
+✅ clippy2 pass
+❌ from_str points 0/1
+❌ try_from_into points 0/1
+❌ algorithm1 points 0/1
+✅ algorithm3 pass
+✅ as_ref_mut pass
+✅ tests7 pass
+✅ algorithm4 pass
+❌ algorithm2 points 0/1
+❌ algorithm6 points 0/1
+❌ algorithm8 points 0/1
+✅ algorithm5 pass
+✅ tests8 pass
+❌ algorithm7 points 0/1
+❌ algorithm9 points 0/1
+❌ algorithm10 points 0/1
+
+Points: 80/110
