@@ -1,0 +1,112 @@
+❌ primitive_types4 points 0/1
+❌ primitive_types5 points 0/1
+✅ variables3 pass
+✅ functions4 pass
+✅ intro2 pass
+❌ primitive_types6 points 0/1
+✅ functions5 pass
+✅ variables1 pass
+✅ variables4 pass
+✅ vecs1 pass
+✅ variables5 pass
+✅ variables2 pass
+✅ if1 pass
+✅ modules3 pass
+✅ variables6 pass
+✅ vecs2 pass
+✅ if2 pass
+✅ functions1 pass
+❌ move_semantics1 points 0/1
+✅ hashmaps1 pass
+❌ move_semantics2 points 0/1
+✅ functions2 pass
+✅ if3 pass
+❌ move_semantics3 points 0/1
+❌ move_semantics4 points 0/1
+✅ functions3 pass
+✅ hashmaps2 pass
+❌ move_semantics5 points 0/1
+✅ quiz1 pass
+❌ move_semantics6 points 0/1
+✅ traits3 pass
+✅ primitive_types1 pass
+❌ primitive_types2 points 0/1
+✅ hashmaps3 pass
+✅ structs1 pass
+❌ primitive_types3 points 0/1
+✅ traits4 pass
+✅ structs2 pass
+✅ quiz2 pass
+✅ traits5 pass
+✅ iterators3 pass
+✅ structs3 pass
+✅ iterators4 pass
+✅ quiz3 pass
+❌ options1 points 0/1
+❌ options2 points 0/1
+✅ enums1 pass
+✅ lifetimes1 pass
+❌ options3 points 0/1
+❌ iterators5 points 0/1
+✅ enums2 pass
+✅ lifetimes2 pass
+✅ errors1 pass
+✅ lifetimes3 pass
+✅ box1 pass
+✅ enums3 pass
+✅ errors2 pass
+✅ rc1 pass
+✅ strings1 pass
+✅ tests1 pass
+✅ errors3 pass
+✅ strings2 pass
+✅ arc1 pass
+✅ tests2 pass
+✅ errors4 pass
+✅ strings3 pass
+✅ tests3 pass
+✅ cow1 pass
+✅ errors5 pass
+✅ strings4 pass
+✅ tests4 pass
+✅ modules1 pass
+✅ errors6 pass
+✅ iterators1 pass
+✅ threads1 pass
+✅ generics1 pass
+✅ modules2 pass
+✅ macros1 pass
+✅ iterators2 pass
+✅ generics2 pass
+❌ using_as points 0/1
+✅ macros2 pass
+✅ threads2 pass
+✅ traits1 pass
+✅ from_into pass
+✅ macros3 pass
+❌ from_str points 0/1
+✅ threads3 pass
+✅ macros4 pass
+❌ try_from_into points 0/1
+✅ traits2 pass
+❌ algorithm1 points 0/1
+✅ tests6 pass
+✅ as_ref_mut pass
+❌ algorithm2 points 0/1
+✅ clippy1 pass
+✅ tests5 pass
+✅ algorithm3 pass
+✅ tests7 pass
+✅ algorithm4 pass
+❌ algorithm6 points 0/1
+✅ clippy2 pass
+✅ algorithm5 pass
+✅ tests8 pass
+❌ algorithm7 points 0/1
+❌ algorithm8 points 0/1
+✅ clippy3 pass
+✅ tests9 pass
+❌ algorithm9 points 0/1
+❌ algorithm10 points 0/1
+
+Points: 85/110
