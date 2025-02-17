@@ -8,7 +8,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let a = ???
+    let a : [i32;200]=[0;200];
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
