@@ -38,6 +38,8 @@ where
 
     pub fn add(&mut self, value: T) {
         //TODO
+        self.items.push(value);
+        self.count=self.count+1;
     }
 
     fn parent_idx(&self, idx: usize) -> usize {
